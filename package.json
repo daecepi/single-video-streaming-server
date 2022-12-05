@@ -1,0 +1,15 @@
+{
+  "name": "single-video-streaming-server",
+  "version": "1.0.0",
+  "description": "Single video streaming service (just testing)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DavidECP (David Eduardo Cermeño Pinzon)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
